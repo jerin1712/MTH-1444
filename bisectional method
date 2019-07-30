@@ -1,0 +1,39 @@
+A)	Bisectional method
+#include<iostream> 
+using namespace std; 
+#define EPSILON 0.01
+double func(double x) 
+{ 
+    return x*x*x*x*x + x*x*x + 3; 
+} 
+void bisection(double x, double y) 
+{ 
+    if (func(x) * func(y) >= 0) 
+    { 
+        cout << "assumed a and b vale is not right"; 
+        return; 
+    } 
+  
+    double z = x; 
+    while ((y-x) >= EPSILON) 
+    { 
+        z = (x+y)/2; 
+        if (func(z) == 0.0) 
+            break; 
+        else if (func(z)*func(x) < 0) 
+            y = z; 
+        else
+            x = z; 
+    } 
+    cout << "The root is = " << z; 
+} 
+int main() 
+{ 
+    double x =-2, y = 2; 
+    bisection(x, y); 
+    return 0; 
+} 
+
+
+
+
