@@ -1,0 +1,38 @@
+C)	SECANT METHOD
+#include <iostream> 
+#include<cmath>
+using namespace std; 
+float f(float x) 
+{ 
+    float f = pow(x,5) + pow(x,3) +3; 
+    return f; 
+} 
+  
+void secant(float n, float m, float e) 
+{ 
+    float h = 0, xm, l, c; 
+    if (f(n) * f(m) < 0) { 
+        do { 
+            l = (n * f(m) - m * f(n)) / (f(m) - f(n)); 
+            c = f(n) * f(l);
+            n = m; 
+            m = l; 
+            h++; 
+  
+            if (c == 0) 
+                break; 
+            xm = (n * f(m) - m * f(n)) / (f(m) - f(n)); 
+        } while (fabs(xm - l) <= e); 
+  
+        cout << "Root of the given equation=" << l << endl; 
+        cout << "No. of iterations = " << h << endl; 
+    } else
+        cout << "Cant find a root in the given inteval"; 
+} 
+  
+int main() 
+{ 
+    float n = -1, m = -1.1, e = 0.001; 
+    secant(n, m, e); 
+    return 0; 
+}
