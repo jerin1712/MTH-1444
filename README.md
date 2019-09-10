@@ -4,18 +4,4 @@ mth144CZXDFADFAFDFADZDCXVAEFE
 mh1444
 jhjliugvlkhvkjhvjvjhv
 sam
-gq;wng;na;slrrglskrgkrd
-sjdgnkjnjdgnmzbf
-wjenfnf fkajfnak
-fwenfbnfbndfbnqk3r
-akjrhrn r r rr
-lkhkbbkibkihbkhbkubkhuvkv
-hghghghthbhfhfhfthnvhfhfhthvgjdfgftfyhyff
-ujfhfhftvhgyrygyhgygyghvhfhfhfhfhfh
-jbjjhjhhogug
-kbbkjkbjhv,i
-ajgsjksljfdkj
-gfafgdfgdfgr
-srtgsdvgdcgsdg
-dfhgdfhdfger
-kaskdblkabsldjkgvbdljadF
+g
