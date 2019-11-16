@@ -1,13 +1,2 @@
 this file consist of all the program related to
-dkgnjrgngr
-ddddddddddddddd
-dddddddddddddssssssssssssssmmnjbujbuguguh
-sssssssssssssssssssaaaaaa
-iiiiiiiiiiihhhhhhhhhhhh
-jjjjjjjjjjj
-skdkkdkdkdkdkdkdiid
-ddddddddddd
-ddddddddddd
-wwwwwwwwwwwwwww
-iujjjhjnnkkkkkk
-kjh8uijkminknkji
+jhgjhgjygjygyj
