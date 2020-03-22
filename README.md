@@ -1,7 +1,4 @@
-askjhfskhsfkJ;HAO
-acslIicxabACdddddddddddddddddddddddddddddddddddddddddddddd
-CXZCXXCXXXXdddddddddddddddddddddddddddddd
-XXXXfhdjhdjfddjdjdjd
+askjhf
 XXXjjdjdjddjdjdjdjdj
 cm,msa ,cmamsn clwsacdskajjdsa
 XASCJRHDN
