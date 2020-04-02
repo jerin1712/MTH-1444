@@ -1,2 +1,2 @@
 
-its based on mathemeatical senario
+its based on mathemeatical senario of programming
