@@ -1,2 +1,2 @@
 
-its based on
+its based on mathemeatical senario
